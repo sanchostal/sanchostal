@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Sanzhar 👋
 
-<!--
-**sanchostal/sanchostal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electrical & Computer Engineering** student at **Drexel University** focused on digital hardware design, embedded systems, and robotics.
 
-Here are some ideas to get you started:
+#### 🔧 Technical Focus & Involvement
+- 🏎️ **Drexel Formula SAE:** Contributing to vehicle electrical engineering and hardware design.
+- 🤖 **Undergraduate Research:** Working on robotics hardware applications at the **Zhou Robotics Lab**.
+- ⚡ **Current Projects:** Designing parameterized FPGA hardware accelerators and ALUs in SystemVerilog & VHDL (Xilinx Vivado / Artix-7 Basys 3).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Tech Stack & Tools
+- **Hardware & HDLs:** SystemVerilog, VHDL, Xilinx Vivado, FPGA Prototyping (Digilent Basys 3), Arduino
+- **Programming:** C, C++, Bash, AWK
+- **Systems & Environment:** Linux/Unix CLI, Git, SSH
