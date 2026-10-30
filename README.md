@@ -1,13 +1,13 @@
-### Hi, I'm Sanzhar 👋
+### Sanzhar Stalbek
+**B.S. in Electrical and Computer Engineering | Drexel University**
 
-I'm an **Electrical & Computer Engineering** student at **Drexel University** focused on digital hardware design, embedded systems, and robotics.
+Undergraduate researcher and engineering student focused on digital hardware design, FPGA architecture, embedded systems, and robotics.
 
-#### 🔧 Technical Focus & Involvement
-- 🏎️ **Drexel Formula SAE:** Contributing to vehicle electrical engineering and hardware design.
-- 🤖 **Undergraduate Research:** Working on robotics hardware applications at the **Zhou Robotics Lab**.
-- ⚡ **Current Projects:** Designing parameterized FPGA hardware accelerators and ALUs in SystemVerilog & VHDL (Xilinx Vivado / Artix-7 Basys 3).
+#### Engineering & Research Involvement
+* **Zhou Robotics Lab (Drexel University):** Undergraduate researcher focusing on electrical and computer engineering hardware applications.
+* **Digital Logic & Architecture:** Developing parameterized FPGA hardware accelerators (Multiply-Accumulate units, Finite State Machines) and Arithmetic Logic Units in SystemVerilog and VHDL on Artix-7 platforms.
 
-#### 🛠️ Tech Stack & Tools
-- **Hardware & HDLs:** SystemVerilog, VHDL, Xilinx Vivado, FPGA Prototyping (Digilent Basys 3), Arduino
-- **Programming:** C, C++, Bash, AWK
-- **Systems & Environment:** Linux/Unix CLI, Git, SSH
+#### Technical Skills
+* **Hardware Description & EDA:** SystemVerilog, VHDL, Xilinx Vivado, ModelSim, FPGA Prototyping (Digilent Artix-7 Basys 3)
+* **Programming & Scripting:** C, C++, Bash, AWK, sed, grep
+* **Embedded & Systems:** Microcontrollers (Arduino), Linux/Unix CLI, SSH, Git
